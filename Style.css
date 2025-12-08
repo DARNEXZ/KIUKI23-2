@@ -1,0 +1,189 @@
+
+body{
+  background-image: url(Photo/Fon.PNG);
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* на месте при прокрутке */
+  background-size: cover; /* весь задний фон */
+}
+
+a{
+	color: #551a8b;
+	text-decoration: none;
+}
+
+.size td{
+	width: 120px;
+	font-size: 17px;
+}
+
+
+.size a:hover{
+	color: black;
+	font-size: 18px;
+}
+
+.size a{
+	text-decoration: inherit;
+}
+
+.size a.active{
+	text-decoration: underline;
+	font-size: 18px;
+	color: black;
+}
+
+.size2 td{
+	width: 360px;
+}
+
+.size2 p{
+	font-size: 18px;
+	font-family: "Open Sans", sans-serif;
+}
+
+.size2 tr{
+	text-align: center;
+}
+
+.InfoBar tr{
+	text-align: center;
+}
+
+.InfoBar td{
+	width: 33%;
+}
+
+
+.ddd{
+	color: black;
+}
+/*общее*/
+
+
+
+
+
+
+/*головна*/
+.homeTD{
+	width: 350px;
+	height: 500px;
+}
+
+.homeP{
+ margin-left: 70px;
+ font-size: 18px;
+ font-family: "Open Sans", sans-serif;
+}
+
+h1{
+	font-size: 18px;
+	opacity: 0.8;
+  font-family: "Open Sans", sans-serif;
+}
+
+
+h2{
+	font-size: 15px;
+	opacity: 0.6;
+	font-family: Arial, sans-serif
+}
+
+h3{
+		font-size: 20px;
+		opacity: 0.9;
+		font-family: Arial, sans-serif
+}
+
+.icon2 td{
+	width: 330px
+}
+
+.icon img{
+	width: 110px;
+}
+
+td video{
+	width: 500px;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+
+
+
+.photo{
+	width: 300px;
+	height: 400px;
+}
+
+.size2 img{
+  border: 1px solid black;
+  border-radius: 3px;
+}
+
+
+
+.colortext{
+	color: red;
+}
+
+
+button {
+	background-color: #4CAF50;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	margin-top: 12px;
+}
+
+button:hover {
+	background-color: #45a049;
+ }
+
+.order-form{
+	max-width: 400px;
+}
+
+.vibor{
+	width: 95%;
+	padding: 8px;
+	border-radius: 4px;
+	border: 1px solid #ccc;
+}
+
+select{
+	width: 100%;
+	padding: 8px;
+	border-radius: 4px;
+	border: 1px solid #ccc;
+
+}
+
+.Maps{
+	width: 350px;
+	height: 320px;
+}
+
+.Maps{
+ margin-left: 70px;
+ font-size: 18px;
+ font-family: "Open Sans", sans-serif;
+}
+
+
+iframe{
+	border-radius:8px;
+}
+
+
+
+
+
+
+
+
+
+
+
